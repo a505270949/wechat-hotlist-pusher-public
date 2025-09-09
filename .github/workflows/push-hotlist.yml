@@ -44,9 +44,9 @@ jobs:
           node index.js
         fi
       env:
-        WXPUSHER_APP_TOKEN: ${{ AT_gk9FzN5OAByNZTeW4p8zc5QDJrrtvrpQ }}
-        WXPUSHER_UID: ${{ UID_WigCcCD3E3zQ7WFPcMRwfNLRjnu7 }}
-        TIANAPI_KEY: ${{ 52c050bbb139caa2451743485809e773 }}
+        WXPUSHER_APP_TOKEN: ${{AT_gk9FzN5OAByNZTeW4p8zc5QDJrrtvrpQ}}
+        WXPUSHER_UID: ${{UID_WigCcCD3E3zQ7WFPcMRwfNLRjnu7}}
+        TIANAPI_KEY: ${{52c050bbb139caa2451743485809e773}}
         TIANAPI_URL: https://apis.tianapi.com/wxhottopic/index
         PUSH_HOUR: 9
         PUSH_MINUTE: 0
